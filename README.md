@@ -1,6 +1,6 @@
 # Automation Script for Website Deployment with EC2
 
-This script was used in the user-data option of the launch template that was configured with the auto-scaling group to automate the following:
+This script was used in the user-data option of the launch template that was configured with an auto-scaling group to automate the following:
 
 - Install, start and enable Apache.
 - Add EC2-user to Apache.
