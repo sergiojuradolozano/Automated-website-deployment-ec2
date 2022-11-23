@@ -32,6 +32,6 @@ git clone https://<github-access-token>@github.com/<username>/<repository>
 mv <repository>/* .
 
 # Remove the empty folder where the repository was initially cloned
-sudo rm -R Websiteeeee/
+sudo rm -R <repository>/
 
 #Done
